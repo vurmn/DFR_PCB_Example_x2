@@ -1169,6 +1169,18 @@
 		(layer "Edge.Cuts")
 		(uuid "def8b162-37fb-4998-82c1-d1fe95c2c279")
 	)
+	(gr_text "NP\n"
+		(at 80 57 0)
+		(layer "F.SilkS")
+		(uuid "b0da6173-d855-4ee1-9d09-3d5c25b471e5")
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 113 79)
 		(end 113 93)
